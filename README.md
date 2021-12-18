@@ -2,7 +2,7 @@
 
 This project is designed to help you get familiar with different debugging features while you go on an adventure with the Go gopher to find a lost treasure!
 
-Download this repository and open it with VS Code to follow along.
+Download this repository and open it with VS Code to follow along [here](https://www.youtube.com/watch?v=ZPIPPRjwg7Q).
 
 ```
 $ git clone https://github.com/suzmue/gophercon.git
